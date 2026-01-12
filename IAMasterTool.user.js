@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         IA Master Tool v15.1
+// @name         IA Master Tool v15.2
 // @namespace    http://tampermonkey.net/
 // @version      15.1
 // @description  Comprehensive automation suite for IssueAware
